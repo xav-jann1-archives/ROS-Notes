@@ -5,7 +5,7 @@
 - `rqt_graph`: affiche un graph des communications entre noeuds:
 `$ rosrun rqt_graph rqt_graph`
 
-En plaçant la souris sur les éléments, leur couleur changent:
+En plaçant la souris sur les éléments, leur couleur change:
 - bleu, vert: nodes
 - rouge: topics
 

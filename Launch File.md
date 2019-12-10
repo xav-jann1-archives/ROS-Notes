@@ -1,6 +1,6 @@
 # Launch File
 
-Fichier à mettre dans un dossier `launch` d'un package
+Fichier à mettre dans un dossier `launch` d'un package.
 
 Fichier au format `XML`:
 ```XML
