@@ -7,5 +7,6 @@ Alias à rajouter dans `.bash_aliases` pour être plus efficace :
 # ROS:
 alias ROS="source /opt/ros/melodic/setup.bash"
 alias rosm="catkin_make"
+alias rosmi="catkin_make install"
 alias ross="source devel/setup.bash"
 ```
